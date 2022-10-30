@@ -4,6 +4,10 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Stack;
 
+/**
+ * Class Main
+ * representa a lista de marca de carros.
+ */
 public class Main {
 
     public static void main(String[] args) {
